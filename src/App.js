@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi This is polu #pushing from polu branch #simhadris
+          Hi This is polu #pushing from polu branch #simhadri
         </p>
         <a
           className="App-link"
